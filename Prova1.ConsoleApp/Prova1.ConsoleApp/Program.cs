@@ -52,8 +52,7 @@ namespace Prova1.ConsoleApp
                 continuar = Convert.ToChar(Console.ReadLine());
 
                 repetir = continuar == 'S' || continuar == 's';
-
-        }while(repetir == true);
+           }while(repetir == true);
         }
     }
 }
