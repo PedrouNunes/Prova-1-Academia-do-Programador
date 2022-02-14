@@ -1,0 +1,16 @@
+C:\Users\pedro\OneDrive\Área de Trabalho\Academia do Programador\Provas\Prova1.ConsoleApp\Prova1.ConsoleApp\bin\Debug\net5.0\Prova1.ConsoleApp.exe
+C:\Users\pedro\OneDrive\Área de Trabalho\Academia do Programador\Provas\Prova1.ConsoleApp\Prova1.ConsoleApp\bin\Debug\net5.0\Prova1.ConsoleApp.deps.json
+C:\Users\pedro\OneDrive\Área de Trabalho\Academia do Programador\Provas\Prova1.ConsoleApp\Prova1.ConsoleApp\bin\Debug\net5.0\Prova1.ConsoleApp.runtimeconfig.json
+C:\Users\pedro\OneDrive\Área de Trabalho\Academia do Programador\Provas\Prova1.ConsoleApp\Prova1.ConsoleApp\bin\Debug\net5.0\Prova1.ConsoleApp.runtimeconfig.dev.json
+C:\Users\pedro\OneDrive\Área de Trabalho\Academia do Programador\Provas\Prova1.ConsoleApp\Prova1.ConsoleApp\bin\Debug\net5.0\Prova1.ConsoleApp.dll
+C:\Users\pedro\OneDrive\Área de Trabalho\Academia do Programador\Provas\Prova1.ConsoleApp\Prova1.ConsoleApp\bin\Debug\net5.0\ref\Prova1.ConsoleApp.dll
+C:\Users\pedro\OneDrive\Área de Trabalho\Academia do Programador\Provas\Prova1.ConsoleApp\Prova1.ConsoleApp\bin\Debug\net5.0\Prova1.ConsoleApp.pdb
+C:\Users\pedro\OneDrive\Área de Trabalho\Academia do Programador\Provas\Prova1.ConsoleApp\Prova1.ConsoleApp\obj\Debug\net5.0\Prova1.ConsoleApp.csproj.AssemblyReference.cache
+C:\Users\pedro\OneDrive\Área de Trabalho\Academia do Programador\Provas\Prova1.ConsoleApp\Prova1.ConsoleApp\obj\Debug\net5.0\Prova1.ConsoleApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\pedro\OneDrive\Área de Trabalho\Academia do Programador\Provas\Prova1.ConsoleApp\Prova1.ConsoleApp\obj\Debug\net5.0\Prova1.ConsoleApp.AssemblyInfoInputs.cache
+C:\Users\pedro\OneDrive\Área de Trabalho\Academia do Programador\Provas\Prova1.ConsoleApp\Prova1.ConsoleApp\obj\Debug\net5.0\Prova1.ConsoleApp.AssemblyInfo.cs
+C:\Users\pedro\OneDrive\Área de Trabalho\Academia do Programador\Provas\Prova1.ConsoleApp\Prova1.ConsoleApp\obj\Debug\net5.0\Prova1.ConsoleApp.csproj.CoreCompileInputs.cache
+C:\Users\pedro\OneDrive\Área de Trabalho\Academia do Programador\Provas\Prova1.ConsoleApp\Prova1.ConsoleApp\obj\Debug\net5.0\Prova1.ConsoleApp.dll
+C:\Users\pedro\OneDrive\Área de Trabalho\Academia do Programador\Provas\Prova1.ConsoleApp\Prova1.ConsoleApp\obj\Debug\net5.0\ref\Prova1.ConsoleApp.dll
+C:\Users\pedro\OneDrive\Área de Trabalho\Academia do Programador\Provas\Prova1.ConsoleApp\Prova1.ConsoleApp\obj\Debug\net5.0\Prova1.ConsoleApp.pdb
+C:\Users\pedro\OneDrive\Área de Trabalho\Academia do Programador\Provas\Prova1.ConsoleApp\Prova1.ConsoleApp\obj\Debug\net5.0\Prova1.ConsoleApp.genruntimeconfig.cache
